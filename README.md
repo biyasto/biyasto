@@ -7,7 +7,8 @@
 
 ## 🙋‍♀️ Let's Connect
 
-![RanniWaifu](https://media.giphy.com/RohXKfWuZjEAAAAd/ranni-ranni-elden-ring.gif)
+
+![til](https://raw.githubusercontent.com/biyasto/biyasto/master/Connect.gif)
 
 <p align="center">
   	<a href="mailto:biyasto@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
@@ -17,8 +18,9 @@
 	
 
 </p>
+<hr/>
 
-## Hello
+## 📈 My Stats
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biyasto&show_icons=true&locale=en&layout=compact&theme=dark" alt="biyasto" /></p>
 
