@@ -5,20 +5,15 @@
 <hr/>
 
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♀️ Connect Me
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/biyasto/biyasto/blob/main/Connect.gif?raw=true">
 </p>
-
-
 <p align="center">
-  	<a href="mailto:biyasto@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/biyasto"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.facebook.com/biyasto"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/biyasto_"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	
-
+<a href="https://www.instagram.com/biyasto_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.facebook.com/biyasto/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%23333?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:biyasto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 <hr/>
 
