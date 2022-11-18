@@ -7,8 +7,10 @@
 
 ## 🙋‍♀️ Let's Connect
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/biyasto/biyasto/blob/main/Connect.gif?raw=true">
+</p>
 
-![til](https://raw.githubusercontent.com/biyasto/biyasto/master/Connect.gif)
 
 <p align="center">
   	<a href="mailto:biyasto@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
