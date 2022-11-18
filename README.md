@@ -5,7 +5,7 @@
 <hr/>
 
 
-## 🙋‍♀️ Connect Me
+## 🙋‍♀️ Contact Me
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/biyasto/biyasto/blob/main/Connect.gif?raw=true">
