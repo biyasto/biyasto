@@ -1,4 +1,5 @@
-<h1 align="center">Hi , I'm Biyasto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<h1 a///\\\ n lign="center">Hi , I'm Biyasto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Pham+Hoai+Bao;Game+Developer;Software+Engineering+Student;Unity+Programmer%20;&center=true&width=500&height=50"></a>
 </p>
@@ -22,7 +23,9 @@
 ## 📈 My Stats
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biyasto&show_icons=true&locale=en&layout=compact&theme=dark" alt="biyasto" /></p>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=02C500&&size=15&duration=3000&lines=Yes...;It's+Looks+Sharp!%20;&center=true&width=500&height=50&"></a>
+</p>
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biyasto&theme=dark" alt="biyasto" /></p>
 
 <p align="center">
