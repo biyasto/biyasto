@@ -32,3 +32,7 @@
   <img  src="https://media.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif">
 </p>
 
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/biyasto/count.svg" />
+</p>
+
