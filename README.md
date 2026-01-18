@@ -1,46 +1,36 @@
-Work on Progress 
-# Bao Pham | Game Developer
-**Gameplay Programmer | Unity & C# Specialist**
 
-[LinkedIn](https://linkedin.com/in/phamhbao01) | [Itch.io](https://itch.io/biyasto) | | [Email](baopham.bus@gmail.com)
-
----
-
-## 🛠 Technical Stack
-* **Engines:** Unity (Pro), Cocos Creator, Godot
-* **Languages:** C#, Java, JavaScript/TypeScript
-* **Tools:** Git, Perforce, Blender (basic modeling), Jenkins (CI/CD)
-
----
-
-## 🎮 Featured Projects
-
-### 01. Project Nebula (Action-RPG)
-> **Goal:** Build a performant combat system capable of handling high entity counts.
-
-![Project Gif](https://via.placeholder.com/600x300?text=Gameplay+Gif+Goes+Here)
-
-* **Engine:** Unity 2022.3 (URP)
-* **Key Achievement:** Developed a **Finite State Machine (FSM)** for player movement and a custom **Data-Oriented** projectile system.
-* **Technical Deep Dive:** [Link to Code Folder](./ProjectNebula/Scripts) | [Read the Devlog](https://itch.io)
-
-### 02. Procedural Dungeon Architect
-> **Goal:** Create a reusable tool for designers to generate non-linear levels.
-
-![Algorithm Gif](https://via.placeholder.com/600x300?text=Logic+Visualization+Gif)
-
-* **Engine:** Unreal Engine 5 (C++)
-* **Key Achievement:** Implemented a **Delaunay Triangulation** algorithm with Minimum Spanning Trees to ensure all rooms are reachable.
-* **Technical Deep Dive:** [View C++ Implementation](./DungeonGen/Source)
-
----
-
-## 🧠 Technical Breakdown: AI Behavior Tree
-When building enemy logic, I prefer modular Behavior Trees over complex nested `if` statements. This allows for rapid iteration of enemy archetypes.
+<h1 a///\\\ n lign="center">Hi , I'm Biyasto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Pham+Hoai+Bao;Game+Developer;Software+Engineering+Student;Unity+Programmer%20;&center=true&width=500&height=50"></a>
+</p>
+<hr/>
 
 
+## 🙋‍♀️ Contact Me
 
----
+<p align="center">
+  <img width="460" height="300" src="https://github.com/biyasto/biyasto/blob/main/Connect.gif?raw=true">
+</p>
+<p align="center">
+   <a href = "mailto:biyasto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/biyasto_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "https://tinyurl.com/biyasto-totally-legit"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=OnlyFans&color=333333&logo=OnlyFans&logoColor=white&label=" target="onlyfan"></a>
+ 
+</p>
+<hr/>
 
-## 📫 Let's Connect
-I'm currently looking for **[Full-time/Contract]** opportunities in Gameplay Programming or Technical Art. If you like what you see, let's chat!
+## 📈 My Stats
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biyasto&show_icons=true&locale=en&layout=compact&theme=dark" alt="biyasto" /></p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=02C500&&size=15&duration=3000&lines=Yes...;It's+Looks+Sharp!%20;&center=true&width=500&height=50&"></a>
+</p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biyasto&theme=dark" alt="biyasto" /></p>
+
+<p align="center">
+  <img  src="https://media.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif">
+</p>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/biyasto/count.svg" />
+</p>
