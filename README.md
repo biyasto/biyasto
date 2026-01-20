@@ -37,7 +37,7 @@ I specialize in turning complex technical hurdles into smooth, engaging gameplay
 ### ⚔️ [CV Games] (100% Camera-Controlled)
 *A suite of Unity-based PC games featuring a custom Python computer vision pipeline for real-time hand, face, and full-body gesture control.*
 
-| Gameplay & UI | Vision Tracking & Logic |
+| | |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/a22b1bef-85ba-476f-a5b7-5a783f38cb23" width="100%"> | <img src="https://github.com/user-attachments/assets/480754f4-0834-46c2-964b-009ef720c150" width="100%"> |
 | <img src="https://github.com/user-attachments/assets/8fcf6844-a508-488f-9a66-8039a2401895" width="100%"> | <img src="https://github.com/user-attachments/assets/abf13d6e-5bf0-42f5-9e54-1ac4d11cb9c2" width="100%"> |
