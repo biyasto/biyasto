@@ -77,7 +77,7 @@ I specialize in turning complex technical hurdles into smooth, engaging gameplay
 | :--- | :--- |
 | **Engines** | Unity, Cocos Creator, Godot |
 | **Languages** | C#, Java, JavaScript, TypeScript, Python |
-| **Backend/Web3** | Firebase, Azure, Web3.js, Socket.io |
+| **Backend/Web3** | Firebase, Playfab, Socket.io |
 | **Workflow** | Git, Jenkins, Jira, Trello |
 
 ---
