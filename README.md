@@ -5,6 +5,7 @@ I’m a Game Developer who builds polished, high-performance games—mostly so I
 
 ---
 
+
 ## 🕹️ Featured Projects
 
 ### 🚀 [R.E.B (Ruin-Exploring Bot)]
@@ -31,6 +32,7 @@ I’m a Game Developer who builds polished, high-performance games—mostly so I
 *Developed a suite of Unity-based PC games featuring a custom Python computer vision pipeline for real-time hand, face, and full-body gesture control.*
 
 ![Project 2 Gameplay GIF](INSERT_GIF_LINK_HERE)
+<img width="681" height="388" alt="Screenshot 2026-01-20 at 09 48 21" src="https://github.com/user-attachments/assets/a22b1bef-85ba-476f-a5b7-5a783f38cb23" />
 
 * **Tech Stack:** Cocos Creator, TypeScript
 * **Key Feature:** Advanced AI behavior trees and high-performance rendering for web browsers.
