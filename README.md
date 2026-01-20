@@ -62,7 +62,7 @@ I specialize in turning complex technical hurdles into smooth, engaging gameplay
 ---
 
 ## 🎨 Creative Showcase (Other Works)
-*A collection of mobile puzzles, arcade clones, and experimental gameplay.*
+*A collection of mobile puzzles, cassual and experimental gameplay.*
 
 | | | |
 | :---: | :---: | :---: |
